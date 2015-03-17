@@ -1,0 +1,169 @@
+- 
+  date: "2015-09-07"
+  dateReadable: "September 7"
+  tracks: 
+    - {title: "Room One", color: "#90be4e"}
+    - {title: "Room Two", color: "#03a9f4"}
+  timeslots:
+    - {
+    	startTime: "08:30",
+    	endTime: "10:00",
+    	sessionIds: [001]
+    }
+    - {
+    	startTime: "10:00",
+    	endTime: "10:10",
+    	sessionIds: [002,099]
+    }
+    - {
+        startTime: "10:10",
+        endTime: "11:00",
+        sessionIds: [003,099]
+    }
+    - {
+    	startTime: "11:00",
+    	endTime: "11:05",
+    	sessionIds: [097]
+    }
+    - {
+    	startTime: "11:05",
+    	endTime: "11:50",
+    	sessionIds: [004,005]
+    }
+    - {
+    	startTime: "11:50",
+    	endTime: "12:00",
+    	sessionIds: [097]
+    }
+    - {
+    	startTime: "12:00",
+    	endTime: "12:45",
+    	sessionIds: [006,007]
+    }
+    - {
+    	startTime: "12:45",
+    	endTime: "13:45",
+    	sessionIds: [096]
+    }
+    - {
+    	startTime: "13:45",
+    	endTime: "14:30",
+    	sessionIds: [008,009]
+    }
+    - {
+    	startTime: "14:30",
+    	endTime: "14:40",
+    	sessionIds: [097]
+    }
+    - {
+    	startTime: "14:40",
+    	endTime: "15:25",
+    	sessionIds: [010,011]
+    }
+    - {
+    	startTime: "15:25",
+    	endTime: "15:30",
+    	sessionIds: [097]
+    }
+    - {
+    	startTime: "15:30",
+    	endTime: "16:15",
+    	sessionIds: [012,013]
+    }
+    - {
+    	startTime: "16:15",
+    	endTime: "16:30",
+    	sessionIds: [097]
+    }
+    - {
+    	startTime: "16:30",
+    	endTime: "17:30",
+    	sessionIds: [028,099]
+    }
+- 
+  date: "2015-09-08"
+  dateReadable: "September 8"
+  tracks: 
+    - {title: "Room One", color: "#90be4e"}
+    - {title: "Room Two", color: "#03a9f4"}
+  timeslots: 
+    - {
+    	startTime: "08:30",
+    	endTime: "09:00",
+    	sessionIds: [095]
+    }
+    - {
+    	startTime: "09:00",
+    	endTime: "09:45",
+    	sessionIds: [014,015]
+    }
+    - {
+    	startTime: "09:45",
+    	endTime: "09:50",
+    	sessionIds: [097]
+    }
+    - {
+    	startTime: "09:50",
+    	endTime: "10:35",
+    	sessionIds: [016,017]
+    }
+    - {
+    	startTime: "10:35",
+    	endTime: "10:45",
+    	sessionIds: [097]
+    }
+    - {
+    	startTime: "10:45",
+    	endTime: "11:30",
+    	sessionIds: [018,019]
+    }
+    - {
+    	startTime: "11:30",
+    	endTime: "11:35",
+    	sessionIds: [097]
+    }
+    - {
+    	startTime: "11:35",
+    	endTime: "12:20",
+    	sessionIds: [020,021]
+    }
+    - {
+    	startTime: "12:20",
+    	endTime: "13:30",
+    	sessionIds: [096]
+    }
+    - {
+    	startTime: "13:30",
+    	endTime: "14:15",
+    	sessionIds: [022,023]
+    }
+    - {
+    	startTime: "14:15",
+    	endTime: "14:20",
+    	sessionIds: [097]
+    }
+    - {
+    	startTime: "14:20",
+    	endTime: "15:05",
+    	sessionIds: [024,025]
+    }
+    - {
+    	startTime: "15:05",
+    	endTime: "15:15",
+    	sessionIds: [097]
+    }
+    - {
+    	startTime: "15:15",
+    	endTime: "16:00",
+    	sessionIds: [026,027]
+    }
+    - {
+    	startTime: "16:00",
+    	endTime: "16:05",
+    	sessionIds: [097]
+    }
+    - {
+    	startTime: "16:05",
+    	endTime: "17:00",
+    	sessionIds: [029,099]
+    }

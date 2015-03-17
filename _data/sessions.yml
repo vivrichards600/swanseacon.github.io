@@ -1,0 +1,167 @@
+-
+  id: 001
+  title: "Registration & Breakfast"
+  place: ""
+  service: true
+-
+  id: 002
+  title: "Opening Ceremony"
+  description: "Welcome to SwanseaCon"
+  subtype: presentation 
+-
+  id: 003
+  title: "Opening Keynote"
+  description: "Information to follow"
+  subtype: keynote
+  speakers: [18]
+-
+  id: 004
+  title: "Session 1"
+  description: "Information to follow"
+  subtype: presentation 
+-
+  id: 005
+  title: "Session 2"
+  description: "Information to follow"
+  subtype: presentation 
+-
+  id: 006
+  title: "Session 3"
+  description: "Information to follow"
+  subtype: presentation 
+-
+  id: 007
+  title: "Session 4"
+  description: "Information to follow"
+  subtype: presentation 
+-
+  id: 008
+  title: "Session 5"
+  description: "Information to follow"
+  subtype: presentation 
+-
+  id: 009
+  title: "Session 6"
+  description: "Information to follow"
+  subtype: presentation 
+-
+  id: 010
+  title: "Session 7"
+  description: "Information to follow"
+  subtype: presentation 
+-
+  id: 011
+  title: "Session 8"
+  description: "Information to follow"
+  subtype: presentation 
+-
+  id: 012
+  title: "Session 9"
+  description: "Information to follow"
+  subtype: presentation 
+-
+  id: 013
+  title: "Session 10"
+  description: "Information to follow"
+  subtype: presentation 
+-
+  id: 014
+  title: "Session 11"
+  description: "Information to follow"
+  subtype: presentation 
+-
+  id: 015
+  title: "Session 12"
+  description: "Information to follow"
+  subtype: presentation 
+-
+  id: 016
+  title: "Session 13"
+  description: "Information to follow"
+  subtype: presentation 
+-
+  id: 017
+  title: "Session 14"
+  description: "Information to follow"
+  subtype: presentation 
+-
+  id: 018
+  title: "Session 15"
+  description: "Information to follow"
+  subtype: presentation 
+-
+  id: 019
+  title: "Session 16"
+  description: "Information to follow"
+  subtype: presentation 
+-
+  id: 020
+  title: "Session 17"
+  description: "Information to follow"
+  subtype: presentation 
+-
+  id: 021
+  title: "Session 18"
+  description: "Information to follow"
+  subtype: presentation
+-
+  id: 022
+  title: "Session 19"
+  description: "Information to follow"
+  subtype: presentation
+-
+  id: 023
+  title: "Session 20"
+  description: "Information to follow"
+  subtype: presentation
+-
+  id: 024
+  title: "Session 21"
+  description: "Information to follow"
+  subtype: presentation
+-
+  id: 025
+  title: "Session 22"
+  description: "Information to follow"
+  subtype: presentation
+-
+  id: 026
+  title: "Session 23"
+  description: "Information to follow"
+  subtype: presentation
+-
+  id: 027
+  title: "Session 24"
+  description: "Information to follow"
+  subtype: presentation
+-
+  id: 028
+  title: "Panel Discussion"
+  description: "Information to follow"
+  subtype: presentation
+-
+  id: 029
+  title: "Closing Keynote"
+  description: "Information to follow"
+  subtype: presentation
+-
+  id: 095
+  title: "Breakfast"
+  place: ""
+  service: true
+-
+-
+  id: 096
+  title: "Lunch"
+  place: ""
+  service: true
+-
+  id: 097
+  title: "Break"
+  place: ""
+  service: true
+-
+  id: 099
+  title: ""
+  place: ""
+  service: true
