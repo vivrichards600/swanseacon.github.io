@@ -56,7 +56,8 @@
   thumbnailUrl: ChristosMatskas.jpg
   rockstar: false
   social: 
-    - {name: "twitter", link: "http://twitter.com/clifton_valtech"}
+    - {name: "twitter", link: "http://twitter.com/christosmatskas"}
+    - {name: "site", link: "http://www.cmatskas.com/"}
 - 
   id: 22
   name: "Clifton"
