@@ -178,7 +178,7 @@ Jason has worked with teams at the BBC, City Index, Electronic Arts, Higher Educ
   id: 15
   name: "Pete"
   surname: "Smith"
-  company: ""
+  company: "Equal Experts"
   title: "Software Consultant"
   bio: "Pete is a software consultant based in London with almost 10 years of experience making web applications with Asp.Net, specialising in API design and Javascript browser-based applications. He is the author of Superscribe - a graph based routing framework, and the OData library Linq to Querystring. "
   thumbnailUrl: PeteSmith.jpeg
@@ -266,3 +266,14 @@ Jason has worked with teams at the BBC, City Index, Electronic Arts, Higher Educ
   social: 
     - {name: "twitter", link: "http://twitter.com/trisha_gee"}
     - {name: "site", link: "http://www.trishagee.com/"}
+- 
+  id: 22
+  name: "Clifton"
+  surname: "Green"
+  company: "Valtech"
+  title: "Senior User Experience Consultant"
+  bio: "Ex GB spear chucker come Senior User Experience Consultant, Digital Designer and full on technology geek."
+  thumbnailUrl: CliftonGreen.jpeg
+  rockstar: false
+  social: 
+    - {name: "twitter", link: "http://twitter.com/clifton_valtech"}

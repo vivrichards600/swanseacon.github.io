@@ -12,7 +12,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 # Site Settings
 title: "SwanseaCon 2015"
 email: "hello@swancon.co.uk"
-description: "SwanseaCon is an agile development and software craftsmanship conference"
+description: "SwanseaCon is an agile development & software craftsmanship conference"
 baseurl: ""
 url: "http://swanseacon.github.io"
 permalink: "/blog/:title"
@@ -55,10 +55,10 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "Agile Development and Software Craftsmanship <typeout>conference"
+heroTitle: "Agile Development & Software Craftsmanship <typeout>conference"
 eventDate: "Monday 7th September - Tuesday 8th September, 2015"
 typeoutTextValues: '"", "Agile", "Development", "Software", "Craftsmanship"'
-typeoutFallback: "SwanseaCon 2015"
+typeoutFallback: ""
 heroButtons:
  - {link: "/assets/SwanseaCon_2015_Sponsorship.pdf", text: "Become a sponsor"}
  - {permalink: "/#tickets", text: "Buy tickets"}

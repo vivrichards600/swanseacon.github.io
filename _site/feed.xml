@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>SwanseaCon 2015</title>
-    <description>SwanseaCon is an agile development and software craftsmanship conference</description>
+    <description>SwanseaCon is an agile development &amp; software craftsmanship conference</description>
     <link>http://swanseacon.github.io/</link>
     <atom:link href="http://swanseacon.github.io/feed.xml" rel="self" type="application/rss+xml" />
     
