@@ -47,6 +47,28 @@
   social: 
     - {name: "twitter", link: "http://twitter.com/ChrisCundill"}
 - 
+  id: 23
+  name: "Christos"
+  surname: "Matskas"
+  company: "Software Lounge"
+  title: "Software Developer"
+  bio: "Christos Matskas has been working as a software developer professionally for the last 11 years. He is the founder and CEO of SoftwareLounge, a software consultancy firm, and co-founder of TowzieTyke an apps development powerhouse. His portfolio includes collaborations with some great companies such as MarkIT, Lockheed Martin and Barclays. Over the years he had the opportunity to work on a numerous exciting projects from mobile apps to data crunching back-end solutions. His blog, https://cmatskas.com, is full with useful tutorials,tips and tricks and reviews about software development and tools. Christos also contributes to Open Source and is a regular speaker at conferences and user groups talking about .NET, the Cloud and software development in general."
+  thumbnailUrl: ChristosMatskas.jpg
+  rockstar: false
+  social: 
+    - {name: "twitter", link: "http://twitter.com/clifton_valtech"}
+- 
+  id: 22
+  name: "Clifton"
+  surname: "Green"
+  company: "Valtech"
+  title: "Senior User Experience Consultant"
+  bio: "Ex GB spear chucker come Senior User Experience Consultant, Digital Designer and full on technology geek."
+  thumbnailUrl: CliftonGreen.jpeg
+  rockstar: false
+  social: 
+    - {name: "twitter", link: "http://twitter.com/clifton_valtech"}
+- 
   id: 5
   name: "Erik"
   surname: "Talboom"
@@ -266,14 +288,3 @@ Jason has worked with teams at the BBC, City Index, Electronic Arts, Higher Educ
   social: 
     - {name: "twitter", link: "http://twitter.com/trisha_gee"}
     - {name: "site", link: "http://www.trishagee.com/"}
-- 
-  id: 22
-  name: "Clifton"
-  surname: "Green"
-  company: "Valtech"
-  title: "Senior User Experience Consultant"
-  bio: "Ex GB spear chucker come Senior User Experience Consultant, Digital Designer and full on technology geek."
-  thumbnailUrl: CliftonGreen.jpeg
-  rockstar: false
-  social: 
-    - {name: "twitter", link: "http://twitter.com/clifton_valtech"}
