@@ -226,7 +226,7 @@
 -
   id: 026
   title: "Software craftsmen need to stop coding so much"
-  description: "<p>Description of talk: Nearly every software craftsmanship event / conference I’ve attended has one theme: code.</p>
+  description: "<p>Nearly every software craftsmanship event / conference I’ve attended has one theme: code.</p>
   <p>Okay that is over simplifying it, we also talk about design, continuous delivery, pair programming and TDD. But it always comes back to the development of code and how we get it into production.</p>
   <p>This sounds sensible doesn’t it? It is “software” craftsmanship after all, we create software with code. Code is great, talking about how to develop and design systems is an integral part of software craftsmanship. However we shouldn’t focus too much on code. Why?</p>
   <p>Well the software we develop is becoming increasingly distributed. It involves more servers, more network hops, more data centres, well more distribution than ever before! I think most software engineers can improve them selves by focusing on fundamentals of computing rather than on code and which language to use.</p>
