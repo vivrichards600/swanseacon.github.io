@@ -35,6 +35,19 @@
     - {name: "twitter", link: "http://twitter.com/alexboly"}
     - {name: "site", link: "http://www.alexbolboaca.ro/"}
 - 
+  id: 26
+  name: "Christopher"
+  surname: "Batey"
+  company: "DataStax"
+  title: "Software Engineer"
+  bio: "<p>Christopher Batey is a Software Engineer by trade and is currently employed by DataStax as a Technical Evangelist for Apache Cassandra. Chris has also worked for Sky, where he helped build their online television platform, and IBM, where he helped develop a variety of messaging products.</p>
+<p>He spends a lot of his own time contributing back to the software community. Christopher has a particular interest in building effective automated tests for every scenario, including network failures, database faults and services returning junk. For that reason he built an open source test double for Apache Cassandra: Stubbed Cassandra.</p>"
+  thumbnailUrl: ChristopherBatey.jpg
+  rockstar: false
+  social: 
+    - {name: "twitter", link: "http://twitter.com/chbatey"}
+    - {name: "site", link: "http://christopher-batey.blogspot.co.uk/"}
+- 
   id: 4
   name: "Chris"
   surname: "Cundill"
@@ -64,7 +77,8 @@
   surname: "Green"
   company: "Valtech"
   title: "Senior User Experience Consultant"
-  bio: "Ex GB spear chucker come Senior User Experience Consultant, Digital Designer and full on technology geek."
+  bio: "<p>Clifton Green is a Senior UX Consultant at Valtech, a leading UK digital consultancy, with over 12 years of experience in User Centred Design experiences. He works with clients to ensure the success of projects by using his knowledge of user-centered design practices, strategic advice, psychology, design thinking, user interface design and lean techniques.</p>
+  <p>Before jumping in to the world of digital consultancy, Clifton was the Head of Design and User Experience for a group of hugely successful gaming companies who produce cutting edge experiences for mobile, tablet and web based products. Clifton has also worked with many global clients in financial, healthcare, entertainment and retail verticals. Clifton is currently focused on projects within DVLA to integrate Lean UX principles and methods into Agile teams pushing collaboration and enabling internal user insight teams to deliver true user centred experiences.</p>"
   thumbnailUrl: CliftonGreen.jpeg
   rockstar: false
   social: 
@@ -162,6 +176,21 @@ Jason has worked with teams at the BBC, City Index, Electronic Arts, Higher Educ
   social: 
     - {name: "twitter", link: "http://twitter.com/jiriknesl"}
 - 
+  id: 24
+  name: "Kevin"
+  surname: "Murray"
+  company: "Valtech"
+  title: "Delivery Director"
+  bio: "<p>Kevin is a Delivery Director at Valtech with 20 years’ experience in the industry.</p>
+<p>Passionate about Agile in the Public Sector, Kevin manages and oversees the successful digital transformation of GDS exemplars for the Department of Work and Pensions, including the phenomenally successful Carer's Allowance digital service.</p>
+<p>He is also highly regarded as an expert on the subject of Public Sector Agile, and permeates his working life with running for charity.</p>
+<p>From day one, Keving has helped in shaping Valtech's approaches to integrating our proven software engineering and agile delivery capabilities with increasing user centricity, user informed development and creative practices.</p>"
+  thumbnailUrl: KevinMurray.jpg
+  rockstar: false
+  social: 
+    - {name: "twitter", link: "http://twitter.com/Kev_C_Murray"}
+    - {name: "site", link: "http://blog.valtech.co.uk/author/kevin-murray/"}
+- 
   id: 12
   name: "Konstantin"
   surname: "Kudryashov"
@@ -209,6 +238,18 @@ Jason has worked with teams at the BBC, City Index, Electronic Arts, Higher Educ
   social: 
     - {name: "twitter", link: "http://twitter.com/roysvork"}
 - 
+  id: 25
+  name: "Peter"
+  surname: "Souter"
+  company: "Puppetlabs"
+  title: "Services Engineer"
+  bio: "<p>Peter is a Professional Services Engineer at Puppetlabs. Over the years, he's been on both sides of the fence, working support, development and operations.</p>"
+  thumbnailUrl: PeterSouter.jpg
+  rockstar: false
+  social: 
+    - {name: "twitter", link: "http://twitter.com/petersouter"}
+    - {name: "site", link: "http://www.petersouter.co.uk/"}
+- 
   id: 16
   name: "Samir"
   surname: "Talwar"
@@ -235,7 +276,7 @@ Jason has worked with teams at the BBC, City Index, Electronic Arts, Higher Educ
   title: "Software architect"
   bio: ": Sander is an independent dad, mentor, trainer, software architect, programmer, speaker, and writer. He is a highly appreciated catalyst in the innovation of software development at his many international clients. Well known as the author of the best-selling book This Is Agile, Sander coaches organizations, projects and teams, has written books on UML and agile, and published over 250 articles in international magazines. He is an inspiring (keynote) speaker at many international conferences, and presents seminars and training courses on a variety of topics such as (beyond) agile, Scrum, Kanban, software estimation, software architecture, microservices, design patterns, modeling and UML, writing code, and testing."
   thumbnailUrl: SanderHoogendoorn.jpg
-  rockstar: true
+  rockstar: false
   social: 
     - {name: "site", link: "http://www.sanderhoogendoorn.com/"}
     - {name: "site", link: "http://www.smartusecase.com/"}
@@ -276,7 +317,21 @@ Jason has worked with teams at the BBC, City Index, Electronic Arts, Higher Educ
   thumbnailUrl: SteveTooke.jpeg
   rockstar: false
   social: 
-    - {name: "twitter", link: "https://twitter.com/tooky/"}
+    - {name: "twitter", link: "https://twitter.com/tooky/"}	
+- 
+  id: 27
+  name: "Thomas"
+  surname: "Sudberg"
+  company: "Independent Consultant"
+  title: "Consultant, Software developer, Speaker, Writer"
+  bio: "<p>Thomas Sundberg is an independent consultant based in Stockholm, Sweden. He has a Masters degree in Computer Science from the Royal Institute of Technology, KTH, in Stockholm. Thomas has been working as a developer for more than 20 years. He has taught programming at The Royal Institute of Technology, KTH, one the leading technical universities in Sweden. Thomas has developed an obsession for technical excellence. This translates to Software Craftsmanship, Clean Code and Test Automation.</p>
+  <p>Thomas is a frequent speaker at different conferences and developer venues.</p>
+<p>Thomas runs a blog where he writes about programming, Software craftsmanship and whatever problem he wants to share a solution about.</p>"
+  thumbnailUrl: ThomasSudberg.png
+  rockstar: false
+  social: 
+    - {name: "twitter", link: "http://twitter.com/thomassundberg"}
+    - {name: "site", link: "http://thomassundberg.wordpress.com/"}
 - 
   id: 21
   name: "Trisha"
@@ -285,7 +340,7 @@ Jason has worked with teams at the BBC, City Index, Electronic Arts, Higher Educ
   title: "Coder, Blogger, Speaker"
   bio: "Trisha has developed Java applications for a range of industries, including finance, manufacturing and non-profit, for companies of all sizes. She has expertise in Java high performance systems, is passionate about enabling developer productivity, and dabbles with Open Source development. Trisha blogs regularly on subjects that she thinks developers and other humans should care about, she’s a leader of the Sevilla Java User Group, a key member of the London Java Community and a Java Champion – she believes we shouldn't all have to make the same mistakes again and again."
   thumbnailUrl: TrishaGee.jpg
-  rockstar: false
+  rockstar: true
   social: 
     - {name: "twitter", link: "http://twitter.com/trisha_gee"}
     - {name: "site", link: "http://www.trishagee.com/"}
