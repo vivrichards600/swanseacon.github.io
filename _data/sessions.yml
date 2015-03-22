@@ -65,7 +65,7 @@
 -
   id: 009
   title: "Surrender the illusion of control"
-  description: "<p>Description of talk: Developers love to get a program into their heads and hold it there. When we’re working on a problem alone this feels like the best way to work, it keeps the code and our ideas connected in a way that feels good and seems to amplify productivity.</p>
+  description: "<p>Developers love to get a program into their heads and hold it there. When we’re working on a problem alone this feels like the best way to work, it keeps the code and our ideas connected in a way that feels good and seems to amplify productivity.</p>
   <p>This doesn’t scale.</p>
   <p>What happens when you add more heads? What happens when the problem is so complex the solution is too big to fit in your head?</p>
   <p>We’ll look at how we can give up the illusion of control but keep that connection between the code and the ideas – even when we are working with other people on complex problems.</p>"
