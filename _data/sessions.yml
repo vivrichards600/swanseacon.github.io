@@ -17,13 +17,11 @@
 -
   id: 004
   title: "What Is Continuous Inspection, Anyway?"
-  description: "<p>Following on from my braindump about Continuous Inspection (ContInsp, as I've recently started to abbreviate it), a few people have asked 'What is Continuous Inspection?'</p>
-  <p>I may have been getting ahead of myself, and overestimated how far this idea has reached. So here's a quick lowdown on Continuous Inspection for the uninitiated.</p>
-  <p>Just as we discovered that it works out better if we test our software frequently throughout development, instead of having one big testing phase near the end, teams have also learned that instead of having occasional Big Code Inspections - and we all know how useful they are - it's better to inspect the code frequently throughout development.</p>
-  <p>Catching code quality problems earlier can have similar benefits to catching bugs earlier. Firstly, they're cheaper to rectify when there's less code surrounding them (the equivalent of weeding before a thick jungle grows around the weeds that we'll have to hack our way through). And secondly, when we talk about 'code quality problems', we're often-as-not talking about design issues that can hinder progress later on. So, the earlier we tackle code quality problems, the cheaper they tend to be to fix, and the faster we tend to go because of lower impedance in our code.</p>
-  <p>There's also the question of focus. It's said that if you show a programmer a line of code and ask 'What's wrong with this code?', they'll tell you. If you show them 1,000 lines of code, they'll shrug their shoulders and say 'Looks okay to me.'</p>
-  <p>Better to deal with one design issue at a time, and to fix them as soon as they appear.</p>
-  <p>For this reason, we see a need - well, those of us who give a damn - to be continuously monitoring the code for the appearance of code quality problems, and to be eliminating them as soon as we spot them.</p>"
+  description: "<p>A critically overlooked aspect of Continuous Delivery is the need to maintain the internal quality of our software to enable us to sustain the pace of innovation. Experience teaches us that Continuous Delivery is not sustainable without Clean Code.</p>
+  <p>Just as with functional bugs, code quality 'bugs' are best caught early, and for this we find we need some kind of Continuous Testing approach to raise the alarm as soon after code smells are introduced as possible.</p>
+  <p>Continuous Inspection is the missing discipline in Continuous Delivery. It is essentially continuous non-functional testing of our code to ensure that we will be able to change it later.</p>
+  <p>In this tutorial, participants will learn how to implement Continuous Inspection using readily available off-the-shelf tools like Checkstyle, Simian, Emma, Java/NDepend and Sonar, as well as rigging up our own bespoke code quality tests using more advanced techniques with reflection and parser generators like ANTLR.</p>
+  <p>They will also learn about key Continuous Inspection practices that can be used to more effectively manage the process and deliver more valuable results, like Non-functional Stories, Clean Code Check-ins, Build Inspections and Rising Tides (a practice that can be applied to incrementally improving the maintainability of legacy code).</p>"
   subtype: presentation 
   speakers: [10]
 -
