@@ -250,6 +250,21 @@ Jason has worked with teams at the BBC, City Index, Electronic Arts, Higher Educ
     - {name: "twitter", link: "http://twitter.com/petersouter"}
     - {name: "site", link: "http://www.petersouter.co.uk/"}
 - 
+  id: 28
+  name: "Rachel"
+  surname: "Davies"
+  company: "Unruly"
+  title: "Coach for XP product development teams"
+  bio: "<p>Rachel Davies is an internationally recognised expert in coaching teams on the effective use of Agile approaches. She is author of the first book on Agile Coaching and an invited speaker at industry conferences around the world.</p>
+  <p>Rachel has over 20 years experience in software development in a variety of roles from software developer to manager. She has been an agile practitioner since 2000 and utilises a range of agile methods including XP, SCRUM, Lean/Kanban, and DSDM Atern. She has extensive experience facilitating agile meetings and workshops.</p>
+  <p>Rachel has supported 50+ agile transitions over the last 9 years working with many well-known companies including Agresso, BBC, Egg, Nokia, Screwfix, and uSwitch. Her work regularly involves working with business stakeholders and senior management to understand driving concerns and collaboratively design a custom Agile lifecycle that fits the company culture.</p>
+  <p>Rachel has a demonstrated track record of strong management and leadership skills. She directed Agile2008 conference in Toronto, the largest ever agile conference with 1500 attendees. Rachel also served on the board of directors of non-profit US based Agile Alliance for 7 years alongside industry thoughtleaders, such as Mike Cohn, Mary Poppendieck, and Ken Schwaber.</p>"
+  thumbnailUrl: RachelDavies.jpeg
+  rockstar: false
+  social: 
+    - {name: "twitter", link: "http://twitter.com/rachelcdavies"}
+    - {name: "site", link: "http://rachelcdavies.github.io/"}
+- 
   id: 16
   name: "Samir"
   surname: "Talwar"

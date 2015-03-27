@@ -149,7 +149,7 @@
   speakers: [3]
 -
   id: 019
-  title: "Title to follow"
+  title: "Lean UX and Agile development taking the Public sector to new levels"
   description: "Information to follow"
   subtype: presentation 
   speakers: [22,24]
@@ -254,6 +254,7 @@
   title: "Closing Keynote"
   description: "Information to follow"
   subtype: presentation
+  speakers: [28]
 -
   id: 095
   title: "Breakfast"
