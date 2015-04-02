@@ -1,0 +1,21 @@
+- 
+  id: 1
+  company: "Codurance"
+  description: "<h5>We build well crafted software</h5>
+  <p>We are software craftsmen. We build well-crafted software to our customers, we help developers to get better at their craft through training, coaching and mentoring, and we help companies to get better at delivering software.</p>
+  <p>We collaborate with our clients. We built our reputation based on client satisfaction and adding value through well-crafted software. We believe that productive partnerships, collaboration, fast feedback, and small iterations are the best way to deliever successful software projects.</p>
+  <p>We have values. We don't negotiate on quality. We use Agile methodologies and Extreme Programming practices, like Test-Driven Development, Simple Design, Pair-Programming and Continuous Integration, in all our projects.</p>
+  <p>We master our skills and tools. We work hard to be the best we can be, constantly practicing, learning, and sharing. All our craftsmen have dedicated time for learning and are very active in external technical communities.</p>"
+  thumbnailUrl: codurance.png
+  website: "http://www.codurance.com"
+-
+  id: 2
+  company: "Equal Experts"
+  description: "<h5>Making Software. Better.</h5>
+  <p>Equal Experts’ agile practitioners combine technical excellence and business pragmatism to deliver simple bespoke software solutions to big business problems.</p>
+  <p>We offset delivery risk by trusting only talented, highly experienced people to employ relentless quality processes and a “zero tolerance” attitude to defects. We make heavy use of open source technology wherever possible, which dramatically lowers total cost of ownership for clients.</p>
+  <p>By leading by example and grounding everything we do in concrete software deliveries, we are able to bring our experience to bear, helping large organizations through their digital transformation.</p>
+  <p>Customers include Camelot and Telefonica and our software solutions underpin major initiatives such as O2’s Priority Moments customer loyalty campaign as well as myO2 self-serve capability. We are using our private sector experience to help UK government departments like HMRC and the Home Office to roll out their digital strategy.</p>
+  <p>For the last three years in a row, Equal Experts has been singled out as one of UK’s fastest growing companies in the tech sector, with sales reaching £24 million in 2014.</p>"
+  thumbnailUrl: equal-experts.png
+  website: "http://www.equalexperts.com/"

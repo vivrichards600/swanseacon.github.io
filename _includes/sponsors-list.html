@@ -1,0 +1,41 @@
+<!-- Begin Blog-->
+<section id="blog" class="blog">
+    <div class="content-wrapper text-left">
+        <div class="col-md-10 col-sm-10 col-lg-offset-2 col-md-offset-2 col-sm-offset-1">
+            
+            <div class="col-lg-8 col-md-10 col-xs-12">
+                {% for sponsor in site.data.sponsors %}
+                    <article class="row post">
+                        <a href="{{ sponsor.website }}" target="_blank" title="{{ sponsor.company }}"><h4><img src="{{ site.baseurl }}/img/partners/{{ sponsor.thumbnailUrl }}"/></h4></a>
+                       <br>
+                        <div class="sponsor-body">{{ sponsor.description }} </div>
+						<p><a href="{{ sponsor.website }}">{{ sponsor.website }}</a></p>
+                    </article>
+                {% endfor %} 
+
+                {% if paginator.total_pages > 1 %}
+                <div class="row">
+                    <div class="pagination">
+                        {% if paginator.previous_page %}
+                        <a href="/page{{ paginator.previous_page }}" class="previous">Previous</a>
+                        {% else %}
+                        <span class="previous">Previous</span>
+                        {% endif %}
+                        <span class="page-number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
+                        {% if paginator.next_page %}
+                        <a href="/page{{ paginator.next_page }}" class="next">Next</a>
+                        {% else %}
+                        <span class="next ">Next</span>
+                        {% endif %}
+                    </div>
+                </div>
+                {% endif %}
+
+                
+
+            </div>
+        </div>
+    </div>
+</section>
+<!-- End Blog -->
+
