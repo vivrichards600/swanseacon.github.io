@@ -3,6 +3,7 @@
   elements: 
     - {name: "Codurance", description: "Codurance, Craft at heart", link: "http://www.codurance.com/", imageUrl: "codurance.png"}
     - {name: "Equal Experts", description: "Equal Experts, Making Software. Better.", link: "http://www.equalexperts.com/", imageUrl: "equal-experts.png"}
+    - {name: "Mozaic Works", description: "Mozaic Works, Think. Design. Work smart.", link: "http://www.mozaicworks.com/", imageUrl: "mozaic-works-small.png"}
 - 
   group: "With support of"
   elements: 

@@ -19,3 +19,10 @@
   <p>For the last three years in a row, Equal Experts has been singled out as one of UK’s fastest growing companies in the tech sector, with sales reaching £24 million in 2014.</p>"
   thumbnailUrl: equal-experts.png
   website: "http://www.equalexperts.com/"
+-
+  id: 3
+  company: "Mozaic Works"
+  description: "<h5>Grow your business, product and teams</h5>
+  <p>We help companies, teams and individuals who develop software improve their working process to achieve specific business objectives like: deploy earlier, be more adaptable, reduce costs or increase ROI.</p>"
+  thumbnailUrl: mozaic-works-small.png
+  website: "http://www.mozaicworks.com/"
