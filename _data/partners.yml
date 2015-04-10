@@ -5,7 +5,11 @@
     - {name: "Equal Experts", description: "Equal Experts, Making Software. Better.", link: "http://www.equalexperts.com/", imageUrl: "equal-experts.png"}
     - {name: "Mozaic Works", description: "Mozaic Works, Think. Design. Work smart.", link: "http://www.mozaicworks.com/", imageUrl: "mozaic-works-small.png"}
 - 
-  group: "With support of"
+  group: "Featured Exhibitor"
+  elements: 
+    - {name: "Learning Connexions", description: "Learning Connexions. Learn, Train, Develop.", link: "http://www.learningconnexions.com/", imageUrl: "LearningConnexions_Logo.jpg"}
+- 
+  group: "Partners"
   elements: 
     - {name: "Swansea Software Development Community", description: "#SSDC, Swansea Software Development Community", link: "http://www.meetup.com/swansea-software-development-community/", imageUrl: "ssdc.png", width: "160px"}
     - {name: "Benjy Stanton", description: "Benjy Stanton", link: "http://www.benjystanton.co.uk", imageUrl: "BenjyStanton.png", width: "160px"}
