@@ -52,6 +52,7 @@ bottomNavigationLinks:
  - {link: "/assets/SwanseaCon_2015_Sponsorship.pdf", text: "Become a sponsor"}
 rightNavigationButtons:
  - {link: "/#tickets", text: "Buy tickets"}
+ - {link: "/assets/SwanseaCon_2015_Brochure.pdf", text: "View Brochure"}
 
 
 # Hero Block
@@ -63,6 +64,7 @@ typeoutFallback: ""
 heroButtons:
  - {link: "/assets/SwanseaCon_2015_Sponsorship.pdf", text: "Become a sponsor"}
  - {permalink: "/#tickets", text: "Buy tickets"}
+ - {permalink: "/assets/SwanseaCon_2015_Brochure.pdf", text: "View Brochure"}
 
 # About Block
 aboutTitle: "About SwanseaCon"
