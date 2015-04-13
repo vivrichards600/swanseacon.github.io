@@ -135,7 +135,13 @@
 -
   id: 017
   title: "The differences between US and European startups from a technical leadership point-of-view."
-  description: "Information to follow"
+  description: "There are tons of books, movies, videos online about growth-oriented companies. Even if we peel the startup romance off the stories, many of the advices and practicies that work in the US (more precisely in California) just doesn't work anywhere else.</p>
+  <p>It is sad to see first-time entrepreneurs and investors still try to adapt the same business models that worked for a company ten years back on the other side of the planet, and wonder why they are running toward failure full flank ahead.</p>
+  <p>Of course, unmaintained appearance may not be the synonym of coolness in your city, but we will discuss deeper problems, such as:<ul>
+  <li>Cultural and language diversity in the area</li>
+  <li>Market size</li>
+  <li>Legal environment and regulations</li>
+  <li>Technology shift</li></ul></p>"
   subtype: presentation 
   speakers: [9]
 -
