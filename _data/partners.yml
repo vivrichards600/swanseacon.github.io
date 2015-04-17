@@ -1,15 +1,25 @@
 -
-  group: ""
-  elements: 
-    - {name: "Codurance", description: "Codurance, Craft at heart", link: "http://www.codurance.com/", imageUrl: "codurance.png"}
-    - {name: "Equal Experts", description: "Equal Experts, Making Software. Better.", link: "http://www.equalexperts.com/", imageUrl: "equal-experts.png"}
-    - {name: "Mozaic Works", description: "Mozaic Works, Think. Design. Work smart.", link: "http://www.mozaicworks.com/", imageUrl: "mozaic-works-small.png"}
+  group: "Gold Sponsors"
+  elements:
+    - {name: "Valtech", description: "Valtech, where experiences are engineered", link: "http://www.valtech.com/", imageUrl: "valtech.png"} 
 - 
-  group: "Featured Exhibitor"
+  group: "Silver Sponsors"
+  elements: 
+    
+- 
+  group: "Bronze Sponsors"
+  elements: 
+    - {name: "Scrum Alliance", description: "Scrum Alliance", link: "http://www.scrumalliance.org/", imageUrl: "scrum-alliance.png"} 
+    - {name: "Viewpoint Construction Software", description: "Viewpoint Construction Software", link: "http://www.viewpoint.com/", imageUrl: "viewpoint-logo.png"}
+- 
+  group: "Exhibitors"
   elements: 
     - {name: "Learning Connexions", description: "Learning Connexions. Learn, Train, Develop.", link: "http://www.learningconnexions.com/", imageUrl: "LearningConnexions_Logo.jpg"}
 - 
   group: "Partners"
   elements: 
+    - {name: "Codurance", description: "Codurance, Craft at heart", link: "http://www.codurance.com/", imageUrl: "codurance.png"}
+    - {name: "Equal Experts", description: "Equal Experts, Making Software. Better.", link: "http://www.equalexperts.com/", imageUrl: "equal-experts.png"}
+    - {name: "Mozaic Works", description: "Mozaic Works, Think. Design. Work smart.", link: "http://www.mozaicworks.com/", imageUrl: "mozaic-works-small.png"}
     - {name: "Swansea Software Development Community", description: "#SSDC, Swansea Software Development Community", link: "http://www.meetup.com/swansea-software-development-community/", imageUrl: "ssdc.png", width: "160px"}
     - {name: "Benjy Stanton", description: "Benjy Stanton", link: "http://www.benjystanton.co.uk", imageUrl: "BenjyStanton.png", width: "160px"}
