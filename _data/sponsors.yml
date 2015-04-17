@@ -1,4 +1,25 @@
-- 
+ - 
+  id: 4
+  company: "Valtech"
+  description: "<h5>Where experiences are engineered</h5>
+  <p>Information to follow</p>"
+  thumbnailUrl: valtech.png
+  website: "http://www.valtech.com/"
+ - 
+  id: 5
+  company: "Scrum Alliance"
+  description: "<h5>Become part of something bigger than you alone</h5>
+  <p>Scrum Alliance brings you together with like-minded people who are passionate about Scrum and who dream, explore – and live – project management brilliance every day. A nonprofit professional organization, we provide advocacy, community, and education to support this movement, equip our members, and help them succeed with Scrum in software development and beyond. Come sprint with us!</p>"
+  thumbnailUrl: scrum-alliance.png
+  website: "http://www.scrumalliance.org/"
+ - 
+  id: 6
+  company: "Viewpoint Construction Software"
+  description: "<h5>Collaboratively Transforming the Global Construction Industry</h5>
+  <p>Viewpoint is a provider of innovative construction-specific software solutions to the global construction and capital project industries. Viewpoint provides the tools needed to improve project profitability and visibility, manage risk, and effectively collaborate with the entire project team.</p>"
+  thumbnailUrl: viewpoint-logo.png
+  website: "http://www.viewpoint.com/"
+ - 
   id: 1
   company: "Codurance"
   description: "<h5>We build well crafted software</h5>
@@ -8,7 +29,7 @@
   <p>We master our skills and tools. We work hard to be the best we can be, constantly practicing, learning, and sharing. All our craftsmen have dedicated time for learning and are very active in external technical communities.</p>"
   thumbnailUrl: codurance.png
   website: "http://www.codurance.com"
--
+ - 
   id: 2
   company: "Equal Experts"
   description: "<h5>Making Software. Better.</h5>
@@ -19,7 +40,7 @@
   <p>For the last three years in a row, Equal Experts has been singled out as one of UK’s fastest growing companies in the tech sector, with sales reaching £24 million in 2014.</p>"
   thumbnailUrl: equal-experts.png
   website: "http://www.equalexperts.com/"
--
+ - 
   id: 3
   company: "Mozaic Works"
   description: "<h5>Grow your business, product and teams</h5>
