@@ -1,7 +1,7 @@
 -
   group: "Gold Sponsors"
   elements:
-    - {name: "Valtech", description: "Valtech, where experiences are engineered", link: "http://www.valtech.com/", imageUrl: "valtech.png"} 
+    - {name: "Valtech", description: "Valtech, where experiences are engineered", link: "http://www.valtech.com/", imageUrl: "valtech.jpg"} 
 - 
   group: "Silver Sponsors"
   elements: 
