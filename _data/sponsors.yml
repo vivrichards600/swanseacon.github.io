@@ -3,7 +3,7 @@
   company: "Valtech"
   description: "<h5>Where experiences are engineered</h5>
   <p>Information to follow</p>"
-  thumbnailUrl: valtech.jpg
+  thumbnailUrl: valtech.png
   website: "http://www.valtech.com/"
  - 
   id: 5
@@ -19,6 +19,13 @@
   <p>Viewpoint is a provider of innovative construction-specific software solutions to the global construction and capital project industries. Viewpoint provides the tools needed to improve project profitability and visibility, manage risk, and effectively collaborate with the entire project team.</p>"
   thumbnailUrl: viewpoint-logo.png
   website: "http://www.viewpoint.com/"
+ - 
+  id: 7
+  company: "Kainos"
+  description: "<h5>Digital Technology Solutions & Agile Development</h5>
+  <p>Kainos is a high-growth IT services company providing digital technology solutions and agile software development to enterprise customers.</p>"
+  thumbnailUrl: kainos.jpg
+  website: "http://www.kainos.com/"
  - 
   id: 1
   company: "Codurance"

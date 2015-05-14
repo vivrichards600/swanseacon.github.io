@@ -11,6 +11,7 @@
   elements: 
     - {name: "Scrum Alliance", description: "Scrum Alliance", link: "http://www.scrumalliance.org/", imageUrl: "scrum-alliance.png"} 
     - {name: "Viewpoint Construction Software", description: "Viewpoint Construction Software", link: "http://www.viewpoint.com/", imageUrl: "viewpoint-logo.png"}
+    - {name: "Kainos", description: "Digital Technology Solutions & Agile Development", link: "http://www.kainos.com/", imageUrl: "kainos.jpg"}
 - 
   group: "Exhibitors"
   elements: 
