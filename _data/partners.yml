@@ -2,6 +2,7 @@
   group: "Gold Sponsors"
   elements:
     - {name: "Valtech", description: "Valtech, where experiences are engineered", link: "http://www.valtech.com/", imageUrl: "valtech.jpg"} 
+    - {name: "University of Wales Trinity Saint David", description: "University of Wales Trinity Saint David", link: "http://www.uwtsd.ac.uk/", imageUrl: "UWTSD.png"} 
 - 
   group: "Silver Sponsors"
   elements: 

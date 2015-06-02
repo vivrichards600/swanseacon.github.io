@@ -6,6 +6,16 @@
   thumbnailUrl: valtech.png
   website: "http://www.valtech.com/"
  - 
+  id: 8
+  company: "University of Wales Trinity Saint David"
+  description: "<h5>Discover a connected university</h5>
+  <p>The University of Wales Trinity Saint David (UWTSD) was formed on 18 November 2010 through the merger of the University of Wales Lampeter and Trinity University College Carmarthen, under Lampeter’s Royal Charter of 1828. On the 1 August 2013, Swansea Metropolitan University became part of UWTSD.</p>
+  <p>The University’s Royal Charter is the oldest in Wales and England after the universities of Oxford and Cambridge. In 2011 HRH the Prince of Wales became its Royal Patron.</p>
+  <p>The UWTSD Group includes Coleg Sir Gâr and Coleg Ceredigion as part of a dual sector group structure comprising further education colleges and the university. The UWTSD Group has over 25,000 learners across 17 campuses in rural and city locations. Together we deliver clear, tangible benefits for learners, employers, industry and communities by offering a vocational approach from entry level to post-doctoral research. The Group will be further strengthened with the merger of University of Wales into UWTSD in due course.</p>
+  <p>The University’s main campuses are situated in various locations in and around Swansea’s city centre as well as in the rural towns of Lampeter and Carmarthen in South West Wales. The Wales International Academy of Voice, under the Directorship of Dennis O’Neill with Dame Kiri Te Kanawa as its patron, is located in Cardiff and in addition the University has a Business School in London for international students.</p>"
+  thumbnailUrl: UWTSD.png
+  website: "http://www.uwtsd.ac.uk/"
+ - 
   id: 5
   company: "Scrum Alliance"
   description: "<h5>Become part of something bigger than you alone</h5>
