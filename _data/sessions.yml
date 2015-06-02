@@ -263,6 +263,27 @@
   subtype: presentation
   speakers: [28]
 -
+  id: 030
+  title: "TDD 1-day intensive workshop"
+  description: "<p>This intensive, no-frills version of Codemanships popular 1-day TDD training workshop crams the most useful practical ideas into the most affordable and convenient single day.</p>
+  <h4>What's in it?</h4>
+  <p>Stripped down to the absolute basics, a laptop with your IDE and unit testing tools of choice, and your brain switched on for a fast, challenging and fun-packed day (You can tackle the exercises in any OO language. Make sure you have the right tools installed, including a mock objects framework, and are familiar with their basic use before the course.)</p>
+  <p>In this one packed day, you'll learn:<br><br>
+  <ul><li>Fundamental TDD (Red-Green-Refactor)</li>
+  <li>Triangulation</li>
+  <li>The Refactoring Discipline</li>
+  <li>Clean Code</li>
+  <li>Test doubles (stubs, mocks, fakes, dummies, spies)</li>
+  <li>Specification By Example (ATDD & BDD)</li>
+  <li>Responsibility-driven Design</li>
+  <li>Tell, Don’t Ask</li>
+  <li>Dependency Injection</li>
+  <li>Outside-In TDD using mock objects</li>
+  <li>Adopting TDD in the Real World (TDD Practice Regimes)</li>
+  <li>...and all in a hands-on way, pairing with people in the room, from whom you'll no doubt also learn.</li></ul>Refreshments and a light lunch are included with this workshop.</p>"
+  subtype: workshop
+  speakers: [10]
+-
   id: 095
   title: "Breakfast"
   place: ""

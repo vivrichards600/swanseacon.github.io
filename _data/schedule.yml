@@ -167,3 +167,14 @@
     	endTime: "17:00",
     	sessionIds: [029,099]
     }
+- 
+  date: "2015-09-09"
+  dateReadable: "September 9"
+  tracks: 
+    - {title: "Workshop", color: "#FFCC00"}
+  timeslots: 
+    - {
+    	startTime: "09:00",
+    	endTime: "17:00",
+    	sessionIds: [030]
+    }
