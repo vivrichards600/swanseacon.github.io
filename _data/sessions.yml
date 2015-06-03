@@ -295,6 +295,16 @@
   subtype: workshop
   speakers: [15]
 -
+  id: 032
+  title: "SignalR - Can a real-time library for .NET be more awesome?"
+  description: "<p>Level: 100-200</p>
+  <h4>Abstract</h4>
+  <p>.NET developers now have a great, open source library for implementing real time communication solutions both on the web and the desktop. SignalR is a persistent connection abstraction library for .NET which was inspired by tools such as socket.io and now.js on Node. In this one day workshop, Christos will discuss the technology behind SignalR and, together, we’ll explore how to leverage this amazing library in your own apps. We’ll start from creating a server hub and then move on to discuss how to implement the client proxies within your web application using JavaScript. Then, we will focus on features such as dependency injection (DI) ,connection resiliancy and authentication to help make the solution more robust. Throughout the workshop, we will combine the patterns and knowledge we learned in order to build a real-world, scalable and secure ASP.NET web app using SignalR.</p>
+  <h4>Prerequisites</h4>
+  <p>Visual Studio 2013 with Update 4, .NET 4.5.2</p>"
+  subtype: workshop
+  speakers: [23]
+-
   id: 095
   title: "Breakfast"
   place: ""
