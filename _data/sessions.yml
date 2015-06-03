@@ -305,6 +305,25 @@
   subtype: workshop
   speakers: [23]
 -
+  id: 033
+  title: "Continuous Inspection with SonarQube workshop‏"
+  description: "<h4>Description</h4>
+  <p>This half-day course, designed by Patroklos P. Papapetrou, one of the authors of “SonarQube in Action”, is the ideal hands-on workshop to learn the core concepts of source code quality and how to eventually adopt continuous inspection in any software development life-cycle, using SonarQube. It is intended to teach developers, testers and software architects how to use this open-source tool to continuously track and improve the quality of their source code.</p>
+  <h4>Prerequisites</h4>
+  <p>Although it’s not required, it will be a plus for the participants if they’re familiar with Java and the practices of Continuous Integration and code reviews. A Github account is needed because it will be used during the workshop.</p>
+  <h4>Agenda</h4>
+  <p><ul><li>Introduction to SonarQube</li>
+  <li>The 7 axes of quality and the Technical Debt</li>
+  <li>Picking a metric to improve</li>
+  <li>Basic principles of Continuous Inspection</li>
+  <li>SonarQube Inspection Modes and notifications</li>
+  <li>Strategies</li>
+  <li>Implementing with Continuous Inspection & code reviews</li></ul></p>
+  <h4>Target groups</h4>
+  <p>Developers, Testers, Architects, tech leads, development managers</p>"
+  subtype: workshop
+  speakers: [14]
+-
   id: 095
   title: "Breakfast"
   place: ""
