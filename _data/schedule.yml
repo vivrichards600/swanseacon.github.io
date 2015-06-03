@@ -171,10 +171,15 @@
   date: "2015-09-09"
   dateReadable: "September 9"
   tracks: 
-    - {title: "Workshop (Not included with standard conference ticket)", color: "#FFCC00"}
+    - {title: "Post-conference Workshops (Workshops are not included with a standard conference ticket)", color: "#FFCC00"}
   timeslots: 
     - {
     	startTime: "09:00",
     	endTime: "17:00",
     	sessionIds: [030]
+    }
+    - {
+    	startTime: "09:00",
+    	endTime: "17:00",
+    	sessionIds: [031]
     }

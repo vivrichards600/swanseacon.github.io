@@ -284,6 +284,17 @@
   subtype: workshop
   speakers: [10]
 -
+  id: 031
+  title: "Lifestyles of the rich and frameworkless"
+  description: "<p>Level: Intermediate</p>
+  <h4>Abstract</h4>
+  <p>Angular, Ember, Meteor, Backbone, the front-end framework space is a busy place indeed. You'd be forgiven for feeling a bit overwhelmed and unsure where to start, but more importantly you're likely to miss an important alternative: to ditch your frameworks altogether and go it alone. It's not for everyone, but this approach can be valuable and rewarding - not just for you but for your clients as well.</p>
+  <h4>Prerequisites</h4>
+  <p>You don't have to know a huge amount about single page application development or existing frameworks to take this workshop, but you may find it more enjoyable if you do. You should be comfortable writing Javascript and basic HTML.</p>
+  <p><a href='https://gist.github.com/Roysvork/599f0fdb8f714afe25ca' target='_blank'>More information about this workshop and the agenda</a></p>"
+  subtype: workshop
+  speakers: [15]
+-
   id: 095
   title: "Breakfast"
   place: ""

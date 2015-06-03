@@ -58,7 +58,7 @@ rightNavigationButtons:
 # Hero Block
 heroImage: "hero.jpg"
 heroTitle: "Agile Development & Software Craftsmanship <typeout>conference"
-eventDate: "Monday 7th September - Tuesday 8th September, 2015"
+eventDate: "Monday 7th September - Wednesday 9th September, 2015"
 typeoutTextValues: '"", "Agile", "Development", "Software", "Craftsmanship"'
 typeoutFallback: ""
 heroButtons:
@@ -69,10 +69,10 @@ heroButtons:
 # About Block
 aboutTitle: "About SwanseaCon"
 aboutBlock:
- - {title: " 	", image: "conference.jpg", text: "<p>SwanseaCon is a technical event for Software Developers, Software Architects, Project Managers, Analysts and Consultants in Wales. It is scheduled to kick start on 7th of September and go on till the 8th of September 2015 at the Liberty Stadium, Swansea, SouthWales.</p>
+ - {title: " 	", image: "conference.jpg", text: "<p>SwanseaCon is a technical event for Software Developers, Software Architects, Project Managers, Analysts and Consultants in Wales. It is scheduled to kick start on 7th of September and go on till the 9th of September 2015 at the Liberty Stadium, Swansea, SouthWales.</p>
  <p>SwanseaCon 2015 will be the first conference in Swansea, South Wales. Exploring the latest agile and lean thinking in software craftsmanship, teams and business. The conference hopes to attract people from all parts of the globe to explore, evolve and find out what it means to be truly agile in business, from its culture to product development practices.</p>
  <p>SwanseaCon 2015 gives you and your colleagues the right platform to gather cutting-edge information on technology from the best speakers and trainers of the industry. </p>
- <p>The conference includes keynotes and presentations, a discussion panel, an opening reception, and time between sessions to network and connect with colleagues from around the world.</p>
+ <p>The conference includes keynotes and presentations, a discussion panel, an opening reception, and time between sessions to network and connect with colleagues from around the world. There is also an opportunity to get hands on with our post-conference workshops which will be facilitated by our speakers.</p>
  <p>Software developing is all about passion and we at SwanseaCon offer you the passion for developing back! Learn how to increase your productivity dramatically and save cost, learn how to enhance the quality of your software applications, meet your peers in a productive and social environment and get passionate on agile development and software craftsmanship, you surely can't ask for more!</p>
  <p><strong><em>Profits made will go toward helping create a summer code camp for children to learn programming as well as going toward next years conference!</em></strong></p>" }
 
@@ -104,7 +104,7 @@ eventPostalCode: "SA1 2FA"
 eventAddressCountry: "Wales"
 eventStartTime: "2015-09-07T08:30"
 eventDoorTime: "09:00"
-eventEndTime: "2015-09-08T17:30"
+eventEndTime: "2015-09-09T17:00"
 eventPlaceCoordinates: "51.642697, -3.935307"
 mapCenterCoordinates: "51.643472, -3.935207"
 mapMobileCenterCoordinates: "51.643472, -3.935080"
@@ -138,7 +138,7 @@ subscribeInfo: "Registration is now open. Number of tickets are limited."
 # Tickets Block
 ticketsTitle: "Tickets"
 ticketTermsTitle: "Terms & Conditions"
-ticketTermsInfo: "Please note that once booked, Conference tickets cannot be cancelled and are non refundable. However, a substitute may be enrolled in a delegate’s place provided we are notified in writing before the first day of the event. Also note it is one ticket per delegate (ie no sharing). While SwanseaCon 2015 strives to maintain an up to date schedule, session list, and speaker list, these may be subject to change. If SwanseaCon has to cancel the conference for any reason, then we will refund 100% of any prepaid conference ticket fee, but we will not be liable for any other costs incurred including (for example) travel charges or any consequential damages, even if we were advised of them."
+ticketTermsInfo: "Please note that once booked, Conference and Workshop tickets cannot be cancelled and are non refundable. However, a substitute may be enrolled in a delegate’s place provided we are notified in writing before the first day of the event. Also note it is one ticket per delegate (ie no sharing). While SwanseaCon 2015 strives to maintain an up to date schedule, session list, and speaker list, these may be subject to change. If SwanseaCon has to cancel the conference for any reason, then we will refund 100% of any prepaid conference ticket fee, but we will not be liable for any other costs incurred including (for example) travel charges or any consequential damages, even if we were advised of them."
 ticketsInfo: "Tickets grant access to all conference sections, coffee breaks, lunch and evening reception. Accommodation is NOT included in the ticket price."
 ticketsOffers:
  -
