@@ -324,6 +324,13 @@
   subtype: workshop
   speakers: [14]
 -
+  id: 038
+  title: "Agile Coaching Skills‏"
+  description: "<h4>Description</h4>
+  <p>To follow shortly</p>"
+  subtype: workshop
+  speakers: [28]
+-
   id: 095
   title: "Breakfast"
   place: ""
