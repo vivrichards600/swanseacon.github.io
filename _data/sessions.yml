@@ -266,7 +266,7 @@
   id: 030
   title: "TDD 1-day intensive workshop"
   description: "<p>This intensive, no-frills version of Codemanships popular 1-day TDD training workshop crams the most useful practical ideas into the most affordable and convenient single day.</p>
-  <h4>What's in it?</h4>
+  <h5>What's in it?</h5>
   <p>Stripped down to the absolute basics, a laptop with your IDE and unit testing tools of choice, and your brain switched on for a fast, challenging and fun-packed day (You can tackle the exercises in any OO language. Make sure you have the right tools installed, including a mock objects framework, and are familiar with their basic use before the course.)</p>
   <p>In this one packed day, you'll learn:<br><br>
   <ul><li>Fundamental TDD (Red-Green-Refactor)</li>
@@ -285,33 +285,33 @@
   speakers: [10]
 -
   id: 031
-  title: "Lifestyles of the rich and frameworkless"
+  title: "Lifestyles of the rich and frameworkless - Workshop"
   description: "<p>Level: Intermediate</p>
-  <h4>Abstract</h4>
+  <h5>Abstract</h5>
   <p>Angular, Ember, Meteor, Backbone, the front-end framework space is a busy place indeed. You'd be forgiven for feeling a bit overwhelmed and unsure where to start, but more importantly you're likely to miss an important alternative: to ditch your frameworks altogether and go it alone. It's not for everyone, but this approach can be valuable and rewarding - not just for you but for your clients as well.</p>
-  <h4>Prerequisites</h4>
+  <h5>Prerequisites</h5>
   <p>You don't have to know a huge amount about single page application development or existing frameworks to take this workshop, but you may find it more enjoyable if you do. You should be comfortable writing Javascript and basic HTML.</p>
   <p><a href='https://gist.github.com/Roysvork/599f0fdb8f714afe25ca' target='_blank'>More information about this workshop and the agenda</a></p>"
   subtype: workshop
   speakers: [15]
 -
   id: 032
-  title: "SignalR - Can a real-time library for .NET be more awesome?"
+  title: "SignalR - Can a real-time library for .NET be more awesome? - Workshop"
   description: "<p>Level: 100-200</p>
-  <h4>Abstract</h4>
+  <h5>Abstract</h5>
   <p>.NET developers now have a great, open source library for implementing real time communication solutions both on the web and the desktop. SignalR is a persistent connection abstraction library for .NET which was inspired by tools such as socket.io and now.js on Node. In this one day workshop, Christos will discuss the technology behind SignalR and, together, we’ll explore how to leverage this amazing library in your own apps. We’ll start from creating a server hub and then move on to discuss how to implement the client proxies within your web application using JavaScript. Then, we will focus on features such as dependency injection (DI) ,connection resiliancy and authentication to help make the solution more robust. Throughout the workshop, we will combine the patterns and knowledge we learned in order to build a real-world, scalable and secure ASP.NET web app using SignalR.</p>
-  <h4>Prerequisites</h4>
-  <p>Visual Studio 2013 with Update 4, .NET 4.5.2</p>"
+  <h5>Prerequisites</h5>
+  <p>Visual Studio 2013 with Update 4, .NET 4.5.2 - Workshop</p>"
   subtype: workshop
   speakers: [23]
 -
   id: 033
-  title: "Continuous Inspection with SonarQube workshop‏"
-  description: "<h4>Description</h4>
+  title: "Continuous Inspection with SonarQube - Workshop‏"
+  description: "<h5>Description</h5>
   <p>This half-day course, designed by Patroklos P. Papapetrou, one of the authors of “SonarQube in Action”, is the ideal hands-on workshop to learn the core concepts of source code quality and how to eventually adopt continuous inspection in any software development life-cycle, using SonarQube. It is intended to teach developers, testers and software architects how to use this open-source tool to continuously track and improve the quality of their source code.</p>
-  <h4>Prerequisites</h4>
+  <h5>Prerequisites</h5>
   <p>Although it’s not required, it will be a plus for the participants if they’re familiar with Java and the practices of Continuous Integration and code reviews. A Github account is needed because it will be used during the workshop.</p>
-  <h4>Agenda</h4>
+  <h5>Agenda</h5>
   <p><ul><li>Introduction to SonarQube</li>
   <li>The 7 axes of quality and the Technical Debt</li>
   <li>Picking a metric to improve</li>
@@ -319,17 +319,68 @@
   <li>SonarQube Inspection Modes and notifications</li>
   <li>Strategies</li>
   <li>Implementing with Continuous Inspection & code reviews</li></ul></p>
-  <h4>Target groups</h4>
+  <h5>Target groups</h5>
   <p>Developers, Testers, Architects, tech leads, development managers</p>"
   subtype: workshop
   speakers: [14]
 -
   id: 038
-  title: "Agile Coaching Skills‏"
-  description: "<h4>Description</h4>
+  title: "Agile Coaching Skills - Workshop‏"
+  description: "<h5>Description</h5>
   <p>To follow shortly</p>"
   subtype: workshop
   speakers: [28]
+-
+  id: 039
+  title: "Crafting Code‏ - Workshop"
+  description: "<h5>Description</h5>
+  <p>This course is designed to help developers write well-crafted code—code that is clean, testable, maintainable, and an expression of the business domain. The course is entirely hands-on, designed to teach developers practical techniques they can immediately apply to real-world projects.</p>
+  <h5>Why attend?</h5>
+  <p><strong>Software Craftsmanship</strong> is at the heart of this course. Throughout, you will learn about the Software Craftsmanship attitude to development and how to apply it to your workplace.</p>
+  <p>Writing <strong>Clean Code</strong> is difficult. Cleaning existing code, even more so. You should attend if you want to:<br>
+  <ul><li>Write clean code that is easy to <strong>understand</strong> and <strong>maintain</strong></li>
+  <li>Become more proficient in <strong>Test-Driven Development</strong>(TDD): using tests to design and build your code base</li>
+  <li>Focus your tests and production code according to business requirements using <strong>Outside-In TDD</strong> (a.k.a. the London School of TDD)</li>
+  </ul></p>
+  <p>Clean code necessitates <strong>good design</strong>. In the process of driving your code through tests, you will learn how to:<br>
+  <ul><li>Understand design principles that lead to clean code</li>
+  <li><strong>Avoid over-engineering</strong> and large rewrites by incrementally evolving your design using tests</li></ul></p>
+  <p>Once you have an understanding of the principles at work, we will apply them to Legacy Code to help you gain confidence in improving legacy projects through testing, refactoring and redesigning.</p>
+  <h5>Content</h5>
+  <p><ul>
+  <li>TDD lifecycle and the Outside-In style of TDD</li>
+  <li>Writing unit tests that express intent, not implementation</li>
+  <li>Using unit tests as a tool to drive good design</li>
+  <li>Expressive code</li>
+  <li>Testing and refactoring Legacy Code</li>
+  </ul><br>
+  The course if fully hands-on and developers will be writing a lot of code.
+  </p>
+  <h5>Audience</h5>
+  <p>Software developers that:<br>
+  <ul>
+  <li>are familiar with at least one Object-Oriented language</li>
+  <li>are able to understand Java or C#</li>
+  <li>Legacy code exercise will be done in one of the following languages: Java, C#, PHP, Scala, or C++</li>
+  <li>can write and execute unit tests using a framework (such as JUnit, NUnit, etc.)</li>
+  <li>have a basic understanding of mock objects</li>
+  </ul>
+  </p>
+  <h5>Prerequisites</h5>
+  <p>Developers must:<br>
+  <ul>
+  <li>bring their own laptops
+  <li>have a development environment consisting of:
+  <li>their favourite Object-Oriented language</li>
+  <li>a unit test framework</li>
+  <li>a mocking library</li>
+  <li>be able to create projects, build source code and run test cases in their development environment</li>
+  </ul><br>
+  In addition, a distributed version-control system such as Git is desirable.
+  </p>
+  "
+  subtype: workshop
+  speakers: [18]
 -
   id: 095
   title: "Breakfast"
