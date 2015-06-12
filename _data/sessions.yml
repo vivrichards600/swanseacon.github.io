@@ -332,9 +332,15 @@
   speakers: [28]
 -
   id: 041
-  title: "Continous deployment - Workshop"
+  title: "Dev-Ops:Zero to Continous Deployment - Workshop"
   description: "<h5>Description</h5>
-  <p>To follow shortly</p>"
+  <p>You’ve written your web service. Now what? We’ll take a journey from nothing to a fully-working system in a production environment, complete with monitoring, continuous deployment, service discovery and zero downtime, using Docker for containerisation and a whole host of other tools, including Jenkins, Consul and Nagios. Get your dev-ops hat on.</p>
+  <h5>Experience Required:</h5>
+  <p>Intermediate development skills and Linux shell-scripting abilities. TDD is a plus.</p>
+  <h5>Prerequisites:</h5>
+  <p>You should bring your laptop, and Docker should be installed and set up before we start. Instructions will be circulated shortly before the event.</p>
+  <h5>Environment:</h5>
+  <p>We’re going to need a decent wi-fi connection. Last time I ran this, at SoCraTes UK, we took out the wireless router with a relatively small load. I will do my best to bring equipment along to mitigate this but if the Internet does down, we’re going to have problems.</p>"
   subtype: workshop
   speakers: [16]
 -
