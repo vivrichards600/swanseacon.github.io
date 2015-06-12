@@ -331,6 +331,20 @@
   subtype: workshop
   speakers: [28]
 -
+  id: 041
+  title: "Continous deployment - Workshop"
+  description: "<h5>Description</h5>
+  <p>To follow shortly</p>"
+  subtype: workshop
+  speakers: [16]
+-
+  id: 040
+  title: "‏An introduction to Agile, Scrum, Kanban and #BeyondProjects - Workshop"
+  description: "<h5>Description</h5>
+  <p>To follow shortly</p>"
+  subtype: workshop
+  speakers: [17]
+-
   id: 039
   title: "Crafting Code‏ - Workshop"
   description: "<h5>Description</h5>
@@ -377,10 +391,26 @@
   <li>be able to create projects, build source code and run test cases in their development environment</li>
   </ul><br>
   In addition, a distributed version-control system such as Git is desirable.
-  </p>
-  "
+  </p>"
   subtype: workshop
   speakers: [18]
+-
+  id: 042
+  title: "BDD Fundamentals - Workshop"
+  description: "<h5>Description</h5>
+  <p>This is day 1 of <a href='http://kickstartacademy.io/courses/bdd-kickstart' target='_blank'>BDD Kickstart</a> from the team at <a href='https://cucumber.io/training' target='_blank'>Cucumber</a>.</p>
+  <p>We'll teach you the fundamental skills that make BDD and Specification by Example a success.</p>
+  <p>Learn how Business Analysts, UX designers, Developers and Testers can collaborate on specifications that lead to fewer defects and shorter delivery time.</p>
+  <h5>Faster Feedback</h5>
+  <p>Agile software development is all about feedback. Learn how BDD tightens the feedback loop by exploring new functionality without writing any code.</p>
+  <h5>Focussed Communication</h5>
+  <p>Nobody likes meetings, yet conversation is the heart of an agile team. Learn to facilitate a 3 amigos specification workshop that's fast and effective.</p>
+  <h5>Enhanced Teamwork</h5>
+  <p>Explore how adopting BDD will change your current working practices, and make decisions about how you'll implement what you've learned.</p>
+  <h5>Living Documentation</h5>
+  <p>Learn how to write specifications that not only document how your system behaves, but are guaranteed to be accurate.</p>"
+  subtype: workshop
+  speakers: [20]
 -
   id: 095
   title: "Breakfast"
