@@ -418,6 +418,19 @@
   subtype: workshop
   speakers: [20]
 -
+  id: 043
+  title: "Walking Skeleton - Workshop"
+  description: "<h5>Description</h5>
+  <p>A Walking Skeleton has been described by Alistair Cockburn as “... a tiny implementation of the system that performs a small end-to-end function. It need not use the final architecture, but it should link together the main architectural components. The architecture and the functionality can then evolve in parallel.” It is also the theme of the popular book “Growing Object Orientated Software Guided by Tests” by Steve Freeman and Nat Pryce.</p>
+  <p>In this session you will start with a clean development environment and develop a walking skeleton for a Java application. The skeleton will evolve and parts will be added as we gather more and more knowledge about the system we are building.</p>
+  <p>This will demonstrate how Acceptance Test Driven Development (ATDD) and Test Driven Development (TDD) can be used to drive the development of a Walking Skeleton, keep it running, and grow it incrementally.</p>
+  <h5>Tools</h5>
+  <p>Java, Gradle, IntelliJ IDEA</p>
+  <h5>Requirements</h5>
+  <p>A laptop with Java 1.8 installed</p>"
+  subtype: workshop
+  speakers: [27]
+-
   id: 095
   title: "Breakfast"
   place: ""
