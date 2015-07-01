@@ -112,10 +112,10 @@
   id: 7
   name: "Franzi"
   surname: "Sauerwein"
-  company: ""
-  title: "Software artisan apprentice"
+  company: "Codurance"
+  title: "Apprentice"
   bio: "Franziska Sauerwein has been a software developer and consultant for several years. She is an active member of the European Software Craftsmanship community and loves to participate in their unconferences, such as SoCraTes. She organizes local code retreats, hackathons, coding dojos and tech talks. Her passions include Test Driven Development, XP techniques and high quality software development."
-  thumbnailUrl: FranziSauerwein.jpeg
+  thumbnailUrl: franzi.png
   rockstar: false
   social: 
     - {name: "twitter", link: "http://twitter.com/Singsalad"}
