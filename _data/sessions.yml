@@ -189,6 +189,7 @@
   description: "<p>We’ll never be able to understand large-scale systems from a single snapshotof the code. Instead we need to understand how the code evolved and how the people who work on it are organized. We also need strategies that let us find design issues and uncover hidden dependencies between both code and people. Where do you find such strategies if not within the field of criminal psychology?<br>This session will reveal the wealth of information that's stored in our version-control systems. You'll learn to predict bugs, detect architectural decay and find the code that is most expensive to maintain. Along the way you'll also see how you evaluate knowledge drain in your codebase, learn the social pitfalls of team work and much more. As a bonus you'll get an introduction to both modern offender profiling and its powerful counterparts in the software world. To achieve this, the session combines research on software evolution with findings from various fields of psychology.</p>"
   subtype: presentation
   speakers: [1]
+  video: "//www.youtube.com/embed/5t-G29DdON0"
 -
   id: 022
   title: "Refactoring mount doom: the story of a story"
