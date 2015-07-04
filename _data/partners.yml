@@ -17,6 +17,7 @@
   group: "Exhibitors"
   elements: 
     - {name: "Learning Connexions", description: "Learning Connexions. Learn, Train, Develop.", link: "http://www.learningconnexions.com/", imageUrl: "LearningConnexions_Logo.jpg"}
+    - {name: "Jetstack.io", description: "The Container Experts.", link: "http://www.jetstack.io/", imageUrl: "jetstack.png"}
 - 
   group: "Partners"
   elements: 

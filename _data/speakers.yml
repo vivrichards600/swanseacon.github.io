@@ -4,11 +4,12 @@
   surname: "Tornhill"
   company: "Consultant"
   title: "Software Consultant"
-  bio: ": Adam combines degrees in engineering and psychology to get a different perspective on the challenges of software. In his role as software consultant, he works as an architect and programmer. Adam also writes open-source software in a variety of programming languages. He’s the author of Your Code as a Crime Scene, has written the popular Lisp for the Web tutorial, and self-published a book on Patterns in C. Other interests include modern history, music and martial arts."
+  bio: "Adam combines degrees in engineering and psychology to get a different perspective on the challenges of software. In his role as software consultant, he works as an architect and programmer. Adam also writes open-source software in a variety of programming languages. He’s the author of Your Code as a Crime Scene, has written the popular Lisp for the Web tutorial, and self-published a book on Patterns in C. Other interests include modern history, music and martial arts."
   thumbnailUrl: AdamTornhill.jpg
   rockstar: false
   social: 
     - {name: "twitter", link: "http://twitter.com/AdamTornhill"}
+    - {name: "site", link: "http://www.adamtornhill.com/"}
 - 
   id: 2
   name: "Adrian"
@@ -100,6 +101,7 @@
   name: "Felienne"
   surname: "Hermans"
   company: "Infotron"
+  title: "Professor & Entrepreneur"
   title: "Professor & Entrepreneur"
   bio: "<p>Felienne is a professor and an entrepreneur in the field of spreadsheets. Her PhD thesis which she defended in 2013, centers on transferring techniques from software engineering, like testing and refactoring, to the world of spreadsheets. She now heads the 'spreadsheet lab' at TU Delft.</p>
 <p>In 2010 Felienne founded Infotron, a startup that helps large companies improve the quality of their spreadsheets. In her spare time, Felienne works at a community center teaching kids to program with Lego Mindstorms.</p>

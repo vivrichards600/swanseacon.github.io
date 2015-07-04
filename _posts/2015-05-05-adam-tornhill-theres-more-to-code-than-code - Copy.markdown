@@ -42,6 +42,8 @@ I hope you enjoyed our thought-experiment. Wouldn't it be great to have access t
 
 #### Did you enjoy this post?
 
+Adam has recorded a video explaining a bit about his upcoming talk in this video. [View Adams video here](https://www.youtube.com/watch?v=5t-G29DdON0).
+
 You can listen to more from Adam this September at SwanseaCon. 
 
 [Treat your Code as a Crime Scene](http://swancon.co.uk/schedule/#session-17)
