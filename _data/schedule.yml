@@ -80,6 +80,11 @@
     	endTime: "17:30",
     	sessionIds: [028,099]
     }
+    - {
+    	startTime: "17:30",
+    	endTime: "19:00",
+    	sessionIds: [098]
+    }
 - 
   date: "2015-09-08"
   dateReadable: "September 8"
@@ -87,11 +92,6 @@
     - {title: "Room One", color: "#90be4e"}
     - {title: "Room Two", color: "#03a9f4"}
   timeslots: 
-    - {
-    	startTime: "08:30",
-    	endTime: "09:00",
-    	sessionIds: [095]
-    }
     - {
     	startTime: "09:00",
     	endTime: "09:45",
@@ -105,7 +105,7 @@
     - {
     	startTime: "09:50",
     	endTime: "10:35",
-    	sessionIds: [016,017]
+    	sessionIds: [026,017]
     }
     - {
     	startTime: "10:35",
@@ -155,7 +155,7 @@
     - {
     	startTime: "15:15",
     	endTime: "16:00",
-    	sessionIds: [026,027]
+    	sessionIds: [016,027]
     }
     - {
     	startTime: "16:00",

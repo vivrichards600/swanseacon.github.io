@@ -1,12 +1,12 @@
 -
   id: 001
-  title: "Registration & Breakfast"
+  title: "Registration"
   place: ""
   service: true
 -
   id: 002
-  title: "Opening Ceremony"
-  description: "Welcome to SwanseaCon"
+  title: "Welcome to Swansea"
+  description: ""
   subtype: presentation 
 -
   id: 003
@@ -255,7 +255,7 @@
 -
   id: 028
   title: "Panel Discussion"
-  description: "Information to follow"
+  description: "<p>More Information to follow</p>"
   subtype: presentation
 -
   id: 029
@@ -433,13 +433,18 @@
   speakers: [27]
 -
   id: 095
-  title: "Breakfast"
+  title: "Break"
   place: ""
   service: true
 -
 -
   id: 096
   title: "Lunch"
+  place: ""
+  service: true
+-
+  id: 098
+  title: "Evening Reception"
   place: ""
   service: true
 -
