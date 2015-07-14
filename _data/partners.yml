@@ -26,3 +26,4 @@
     - {name: "Mozaic Works", description: "Mozaic Works, Think. Design. Work smart.", link: "http://www.mozaicworks.com/", imageUrl: "mozaic-works-small.png"}
     - {name: "Swansea Software Development Community", description: "#SSDC, Swansea Software Development Community", link: "http://www.meetup.com/swansea-software-development-community/", imageUrl: "ssdc.png", width: "160px"}
     - {name: "Benjy Stanton", description: "Benjy Stanton", link: "http://www.benjystanton.co.uk", imageUrl: "BenjyStanton.png", width: "160px"}
+    - {name: "Jetstack.io", description: "The Container Experts.", link: "http://www.jetstack.io/", imageUrl: "jetstack.png"}
